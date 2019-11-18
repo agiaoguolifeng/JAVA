@@ -70,6 +70,6 @@ public class Test {
         System.out.println(s+"的数量"+count+"个");
     }
 }
-![运行结果图]（https://github.com/agiaoguolifeng/JAVA/blob/master/1.PNG）
+![image]（https://github.com/agiaoguolifeng/JAVA/blob/master/1.PNG）
 实验心得
 通过这次实验，我知道了如何定义String字符串和字符串类型，学会了怎么把字符串换行 添加标点学会了提供参数来计算代码中某个字出现的次数,在做这些实验时，明显感觉对知识的不熟悉，所以做的慢，边看书边分析才能做好，在以后的学习中要不断积累知识。
